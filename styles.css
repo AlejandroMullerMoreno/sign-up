@@ -1,4 +1,13 @@
+*{
+    margin:0px;
+}
 img{
     width:500px;
-    height:500px;
+    height:100vh;
+}
+form{
+    position:relative;
+    left:525px;
+    bottom: 50vh;
+
 }
