@@ -11,3 +11,19 @@ form{
     bottom: 50vh;
 
 }
+
+#first_row{
+    margin-bottom: 25px;
+}
+
+#second_row{
+    margin-bottom: 25px;
+}
+
+button{
+    margin-top: 25px;
+}
+
+input:invalid{
+    background-color: red;
+}
